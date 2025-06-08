@@ -1,0 +1,6 @@
+{
+  "name": "MarketingMind - AI Marketing Assistant",
+  "description": "An AI-powered marketing assistant application that orchestrates multiple AI agents to generate marketing campaign materials and strategies based on user goals. It leverages the Gemini API for content generation and offers features like project management, agent-specific interactions, and global command orchestration.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
